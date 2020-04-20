@@ -1,5 +1,5 @@
 {
-  "name": "cloudsponge/sparkline",
+  "name": "@cloudsponge/sparkline",
   "version": "0.3.11",
   "files": [
     "src/sparkline.js",
