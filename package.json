@@ -1,6 +1,6 @@
 {
-  "name": "@fnando/sparkline",
-  "version": "0.3.10",
+  "name": "cloudsponge/sparkline",
+  "version": "0.3.11",
   "files": [
     "src/sparkline.js",
     "dist/**/*",
@@ -16,7 +16,7 @@
   },
   "description": "Generate SVG sparklines with JavaScript without any external dependency.",
   "license": "MIT",
-  "repository": "https://github.com/fnando/sparkline",
+  "repository": "https://github.com/cloudsponge/sparkline",
   "private": false,
   "devDependencies": {
     "@babel/core": "7.0.x",
